@@ -1,0 +1,16 @@
+REM Written by @Pure999
+GUI r
+DELAY 300
+STRING msedge
+ENTER
+DELAY 1000
+STRING F11
+DELAY 3000
+CTRL t
+DELAY 1000
+CTRL l
+DELAY 200
+STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ
+ENTER
+DELAY 5000
+STRING f
