@@ -10,7 +10,7 @@ CTRL t
 DELAY 1000
 CTRL l
 DELAY 200
-STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ
+STRING https://www.youtube.com/watch?v=DSlQ1H0Oc88
 ENTER
 DELAY 5000
 STRING f
